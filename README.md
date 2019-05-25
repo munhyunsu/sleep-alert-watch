@@ -1,10 +1,11 @@
 # Sleep Alert Watch
 
 ## Feature
-- Monitor steps, heart-beat (, gyro?)
+- Monitor steps, heart beat (, gyro?)
+- Log steps, heart beat data
 
 ## Devices
-- Android wear?
+- Mi band 3, Fitbit, Android wear
 
 ## Project sponed by 
 - Hosudon high-school project
