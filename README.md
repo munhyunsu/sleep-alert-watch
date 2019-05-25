@@ -1,5 +1,11 @@
 # Sleep Alert Watch
 
+## Feature
+- Monitor steps, heart-beat (, gyro?)
+
+## Devices
+- Android wear?
+
 ## Project sponed by 
 - Hosudon high-school project
 - 
