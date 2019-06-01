@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SleepWatchAlert</string>
+    <string name="btn_sync">Sync device</string>
 </resources>
