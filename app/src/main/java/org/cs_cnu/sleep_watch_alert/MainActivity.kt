@@ -9,4 +9,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+
+    fun getBluetoothAdapter() {
+        val bluetoothAdapter: BluetoothAdapter? = BluetoothAdapter.getDefaultAdapter()
+        if (bluetoothAdapter == null) {
+            // Device doesn't support Bluetooth
+        }
+    }
 }
