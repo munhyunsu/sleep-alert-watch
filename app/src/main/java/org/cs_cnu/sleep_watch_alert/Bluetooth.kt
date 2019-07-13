@@ -12,4 +12,5 @@ class Bluetooth : {
             // Device doesn't support Bluetooth
         }
     }
+
 }

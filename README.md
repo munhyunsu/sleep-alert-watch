@@ -1,5 +1,8 @@
 # Sleep Alert Watch
 
+## Pending!
+- For using opensource project
+
 ## Feature
 - Monitor steps, heart beat, (and accelometer)
 - Log steps, heart beat data
