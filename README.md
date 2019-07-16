@@ -3,6 +3,9 @@
 ## Pending!
 - For using opensource project
 
+## Requirements
+- Mi band app sync
+
 ## Feature
 - Monitor steps, heart beat, (and accelometer)
 - Log steps, heart beat data
