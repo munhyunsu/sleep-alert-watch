@@ -5,6 +5,7 @@ import android.bluetooth.BluetoothDevice
 import android.content.Context
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import org.cs_cnu.sleep_watch_alert.request.*
 
 class BluetoothConnectionService(val context: Context) {
 
