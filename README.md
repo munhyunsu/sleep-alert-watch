@@ -17,7 +17,11 @@
 - Hosudon high-school project
 
 ## Created by
-- LuHa (munhyunsu@gmail.com)
+
+### Coded by
+-LuHa (munhyunsu@gmail.com)
+
+### Project idea
 - C.
 - H.
 - P.
