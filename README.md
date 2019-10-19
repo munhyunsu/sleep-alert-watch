@@ -1,10 +1,10 @@
 # Sleep Alert Watch
 
-## Pending!
-- For using opensource project
-
 ## Requirements
 - Mi band app sync
+
+## Base project
+- [GadgetBridge](https://github.com/Freeyourgadget/Gadgetbridge)
 
 ## Feature
 - Monitor steps, heart beat, (and accelometer)
